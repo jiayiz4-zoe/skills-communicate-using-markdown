@@ -7,3 +7,6 @@
 my_var = "Hello, Python!"
 print(my_var)
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
